@@ -82,9 +82,6 @@
     "explanation": "Push opening brackets and match each closing bracket with the most recent opener.",
     "url": "https://leetcode.com/problems/valid-parentheses/"
   }
-]
-
-[
   {"id":"dsa-003","category":"DSA","level":"Easy","type":"Concept","title":"Array Access","question":"What is the time complexity of accessing an array element by index?","answer":"O(1)","explanation":"An index directly identifies the element's memory position."},
   {"id":"dsa-004","category":"DSA","level":"Easy","type":"Concept","title":"Linked List","question":"What is one advantage of a linked list over an array?","answer":"Flexible insertion and deletion without shifting subsequent elements.","explanation":"Insertion can be O(1) when the relevant node is already known."},
   {"id":"dsa-005","category":"DSA","level":"Easy","type":"Trivia","title":"Queue","question":"Which queue operation removes an element?","answer":"Dequeue.","explanation":"Enqueue inserts an element; dequeue removes the front element."},
